@@ -1,0 +1,11 @@
+# Visual studio settings
+.vs/**
+
+# Cmake output
+out/**
+[Bb]uild/**
+
+*.pdb
+*.exe
+*.ilk
+*.json
